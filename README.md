@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+<h2 align="center">RPG</h2>
+<h1 align="center">
+    <img alt="screen" title="#print" src="/assets/example.png" width="500px" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Por enquanto só é possível andar pelo mapa, sendo bloqueado pelos obstáculos</p>
+
+<h1 align="center">
+  <img
+    alt="Web"
+    src="/assets/images/example.gif"
+  />
+  </h1>
+
+
 
 ## Available Scripts
 
@@ -22,8 +34,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `yarn build`
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
+It correctly bundles React in production moscreen
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
